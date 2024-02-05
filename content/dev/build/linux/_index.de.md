@@ -24,10 +24,10 @@ Desktop-Versionen nutzen [Sciter](https://sciter.com/) für die Benutzeroberflä
 
 ### Auf Linux erstellen
 
-#### Ubuntu 18 (Debian 10)
+#### Ubuntu 18.04 (Debian 10)
 
 ```sh
-sudo apt install -y g++ gcc git curl wget nasm yasm libgtk-3-dev clang libxcb-randr0-dev libxdo-dev libxfixes-dev libxcb-shape0-dev libxcb-xfixes0-dev libasound2-dev libpulse-dev cmake
+sudo apt install -y g++ gcc git curl wget nasm yasm libgtk-3-dev clang libxcb-randr0-dev libxdo-dev libxfixes-dev libxcb-shape0-dev libxcb-xfixes0-dev libasound2-dev libpulse-dev cmake  libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev
 ```
 
 #### Fedora 28 (CentOS 8)
